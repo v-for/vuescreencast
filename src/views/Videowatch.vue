@@ -40,7 +40,7 @@ export default {
 </script>
 
 <style scooped>
-img{
+img,.video-player-box{
   max-width: 50%;
 }
 </style>
